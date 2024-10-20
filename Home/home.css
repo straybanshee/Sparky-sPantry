@@ -1,0 +1,10 @@
+/*Task 1 (difficult): format the navigation bar by putting the titles next to each other.*/
+/*Task 2 (medium): format our image to be beside the paragraph and change its size.*/
+/*Task 3 (easy): add fonts, font colors, background colors, etc. to our page.*/
+
+
+/*Changing attributes of an element example with header 1*/
+h1 {
+    color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
